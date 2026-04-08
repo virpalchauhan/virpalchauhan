@@ -64,13 +64,13 @@ I have strong knowledge of OOP, N-Tier Architecture, and REST API development. I
 
 ## 📫 Connect With Me
 
-[![Phone](https://img.shields.io/badge/Phone-8401577882-green?style=for-the-badge&logo=whatsapp)](tel:+918401577882)
+## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:virpalsinhchauhan007@gmail.com)
+📞 Phone: +91 8401577882  
+📧 Email: virpalsinhchauhan007@gmail.com  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://instagram.com/virpal_chauhan._7) 
+🌐 LinkedIn: https://www.linkedin.com/in/your-link  
+📸 Instagram: https://instagram.com/virpal_chauhan._7 
 
 📍 Location: Gujarat, India  
 
