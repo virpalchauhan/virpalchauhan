@@ -70,6 +70,7 @@ I have strong knowledge of OOP, N-Tier Architecture, and REST API development. I
 📧 Email: virpalsinhchauhan007@gmail.com  
 
 🌐 LinkedIn: https://www.linkedin.com/in/virpal-sinh-chauhan-1384712a7/
+
 📸 Instagram: https://instagram.com/virpal_chauhan._7 
 
 📍 Location: Gujarat, India  
