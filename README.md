@@ -62,11 +62,11 @@ I have strong knowledge of OOP, N-Tier Architecture, and REST API development. I
 
 ---
 
-## 📫 Connect With Me
 
 ## 📫 Connect With Me
 
 📞 Phone: +91 8401577882  
+
 📧 Email: virpalsinhchauhan007@gmail.com  
 
 🌐 LinkedIn: https://www.linkedin.com/in/virpal-sinh-chauhan-1384712a7/
