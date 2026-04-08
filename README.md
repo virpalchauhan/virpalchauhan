@@ -76,6 +76,16 @@ I have strong knowledge of OOP, N-Tier Architecture, and REST API development. I
 📍 Location: Gujarat, India  
 
 ---
+---
 
+## 🎯 Hobbies & Interests
+
+♟️ Playing Chess – helps in strategic planning and critical thinking  
+
+🧩 Puzzle Solving – improves logical reasoning and problem-solving ability  
+
+🎬 Watching Crime & Thriller Movies – interested in understanding patterns, investigation, and analytical scenarios  
+
+---
 ## ⚡ Fun Fact
 I love learning new technologies and building real-world projects 🚀
